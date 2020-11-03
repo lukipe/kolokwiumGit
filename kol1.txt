@@ -1,5 +1,10 @@
 Zamiana01
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 naprawa
 >>>>>>> naprawaBledu
+=======
+zmiana02
+zmiana03
+>>>>>>> prostaWersja
