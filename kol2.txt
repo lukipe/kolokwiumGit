@@ -1,1 +1,5 @@
 zmiana02
+<<<<<<< HEAD
+=======
+naprawa
+>>>>>>> naprawaBledu

@@ -1,1 +1,5 @@
 Zamiana01
+<<<<<<< HEAD
+=======
+naprawa
+>>>>>>> naprawaBledu
