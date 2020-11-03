@@ -10,3 +10,4 @@ zmiana03
 >>>>>>> prostaWersja
 zmiana 04
 zmiana 05
+zmiana08
