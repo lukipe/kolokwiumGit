@@ -3,3 +3,4 @@ zmiana02
 =======
 naprawa
 >>>>>>> naprawaBledu
+zmiana09
