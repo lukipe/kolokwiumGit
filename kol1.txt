@@ -11,3 +11,4 @@ zmiana03
 zmiana 04
 zmiana 05
 zmiana08
+zmiana10
